@@ -1,4 +1,4 @@
-module.exports = function(numberPlate) {
+module.export = function(numberPlate) {
   var array = [];
   var number = numberPlate.split(', ');
   for (var i = 0; i < number.length; i++) {
