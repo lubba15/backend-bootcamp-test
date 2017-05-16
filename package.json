@@ -15,7 +15,9 @@
   "devDependencies": {
     "mocha": "^3.4.1"
   },
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.15.2"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lubba15/backend-bootcamp-test.git"
