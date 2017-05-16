@@ -1,4 +1,4 @@
-const ass = require('assert');
+const assert = require('assert');
 const countAllPaarl = require('../countAllPaarl');
 
 describe('function countAllPaarl', function() {
